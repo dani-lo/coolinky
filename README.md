@@ -1,2 +1,2 @@
-# sekur
-secure local files
+# coolinky
+keep a tab on interesting web stuffs
